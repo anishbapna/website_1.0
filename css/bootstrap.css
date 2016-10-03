@@ -6744,6 +6744,16 @@ button.close {
 .visible-print-inline-block {
   display: none !important;
 }
+.heading {
+float:left;
+width:100%;
+padding-top:3%;
+padding-bottom:1%;
+font-size:55px;
+color:#FFF;
+position:relative;
+}
+
 @media print {
   .visible-print-inline-block {
     display: inline-block !important;
